@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-You can use the [editor on GitHub](https://github.com/Ibrahimdraou/modul-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" >
+    <link rel="stylesheet" href="css/styles.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <title>module 3</title>
+  </head>
+  
+<body>
+<div class="container">
+<nav class="navbar navbar-light  nav-css">
+     <span class="navbar-brand mb-0 h1">Food, LLC</span>
+     <button type="button"  class="navbar-toggler" data-toggle="collapse" data-target="#myMenu">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="myMenu">
+                <ul class="navbar-nav bg-light text-center">
+                  <li class="nav-item"><a class="nav-link" href="#menu1">Chicken</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#menu2">Beef</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#menu3">Sushi</a></li>
+                </ul>
+              </div>
+</nav>
+<h1 class="text-center my-5">Our Menu</h1>
+<div class="row ">
+    <div class="col-xs-12 col-sm-6 col-md-4 item "id="menu1"> 
+            <p class="text-center menu-title" >Chicken</p> <p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo 
+                    blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, 
+                    blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse? ore sunt, numquam,Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo 
+                    blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, 
+                    blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse? ore sunt, numquam, </p> </div>
 
-### Markdown
+    <div  class="col-xs-12 col-sm-6 col-md-4 item " id="menu2"> <p  class="text-center menu-title" >Beef</p>  <p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus 
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo vel placeat iste, explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore 
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse ore Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus 
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo vel placeat iste, explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore 
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse ore    </p>  <a href="#">Back to Top</a> </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 item" id="menu3"   > <p  class="text-center menu-title">Sushi</p> <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo   vel placeat iste, explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse? ore  
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed ipsa totam iusto blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo
+            blanditiis aliquid laboriosam quae odio dolores accusantium? Eaque odit asperiores beatae temporibus vel placeat iste, explicabo   vel placeat iste, explicabo dolore repellendus! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam molestiae earum dolore dolores sapiente unde inventore perferendis sunt, numquam, fuga aliquam nesciunt. Quos, ipsam corrupti? Inventore nam minima ut esse? ore 
+        </p>  </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ </div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ibrahimdraou/modul-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.0.min.js"></script> </script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
